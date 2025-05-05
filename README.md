@@ -30,3 +30,9 @@ Polus.gg rebuild.
 化形者:提取其他玩家的外觀，並化形成該玩家的外觀
 
 隱身人:使用技能期間所有玩家都無法看見他
+
+# Creddit
+Polus.gg:Mod idea is from here
+AllOfUs:Many code is from here :)
+MiraAPI:This mod is based on it
+Reactor
